@@ -1,0 +1,37 @@
+# Desafio 4 | Firebase (II)
+
+Desafio del Módulo 7 | Sección 3 | Día 12 | del curso _**Desarrollo de aplicaciones FRONT-END TRAINEE V2.0**_
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/)
+
+## Authors
+
+- [@maprimat](https://www.github.com/maprimat)
+
+### Deploy del proyecto en Firebase
+
+- Deploy [Desafio Firebase II](https://fir-desafio-2.web.app)
+
+
+
